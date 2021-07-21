@@ -19,12 +19,12 @@ Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica 
 
     Descargar y descomprimir la carpeta, copiar las carpetas stage1_train y stage1_test para el entrenamiento y pruebas
 
-![Download Dataset](https://www.epfl.ch/labs/cvlab/data/data-em/)
+[Download Dataset](https://www.epfl.ch/labs/cvlab/data/data-em/)
 
 ## 3. Entrenamiento del Modelo
 
     Ejecutar el documento de Jupyter Notebook
-![Basic U-Net](https://github.com/DavidReveloLuna/Semantic-Segmentation-Basic-U-Net/blob/master/BasicUnet.ipynb)
+[Basic U-Net](https://github.com/DavidReveloLuna/Semantic-Segmentation-Basic-U-Net/blob/master/BasicUnet.ipynb)
 
 ## 3. Resultados
 
