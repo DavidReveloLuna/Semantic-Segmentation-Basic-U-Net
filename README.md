@@ -17,7 +17,7 @@ Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica 
     $ pip install keras==2.3.1
     $ pip install numpy scipy Pillow cython matplotlib scikit-image opencv-python h5py imgaug IPython[all]
 
-## 2. Descargar el dataset Electron Microscopy Dataset>
+## 2. Descargar el dataset Electron Microscopy Dataset
 
     Descargar y descomprimir la carpeta, copiar las carpetas stage1_train y stage1_test para el entrenamiento y pruebas
 
