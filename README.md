@@ -1,6 +1,8 @@
 # Segmentación Semántica Modelo Básico U-Net
 Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica usando Keras y el dataset Electron Microscopy Datset
 
+[Paper original](https://arxiv.org/pdf/1505.04597.pdf)
+
 ![Modelo U-Net](https://github.com/DavidReveloLuna/Semantic-Segmentation-Basic-U-Net/blob/master/assets/ArquitecturaUnet.png)
 
 ## 1. Preparación del Entorno
