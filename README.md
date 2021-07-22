@@ -7,8 +7,9 @@ Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica 
 
 ## 1. Preparación del Entorno
 
-    $ conda create -n Unet anaconda python=3.7.7
+    $ conda create -n Unet 
     $ conda activate Unet
+    $ pip install python=3.7.7
     $ conda install ipykernel
     $ python -m ipykernel install --user --name Unet --display-name "Unet"
     $ conda install tensorflow-gpu==2.1.0 cudatoolkit=10.1
