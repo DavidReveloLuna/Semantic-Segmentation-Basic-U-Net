@@ -16,7 +16,7 @@ Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica 
     $ pip install tensorflow==2.1.0
     $ pip install jupyter
     $ pip install keras==2.3.1
-    $ pip install numpy scipy Pillow cython matplotlib scikit-image opencv-python h5py imgaug IPython[all]
+    $ pip install numpy matplotlib scikit-image opencv-python
 
 ## 2. Descargar el dataset Electron Microscopy Dataset
 
