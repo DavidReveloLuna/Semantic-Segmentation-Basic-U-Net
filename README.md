@@ -7,16 +7,16 @@ Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica 
 
 ## 1. Preparación del Entorno
 
-    $ conda create -n Unet anaconda python=3.7.7
+    $ conda create -n Unet anaconda python=3.7
     $ conda activate Unet
-    $ conda install ipykernel
-    $ python -m ipykernel install --user --name Unet --display-name "Unet"
-    $ conda install tensorflow-gpu==2.1.0 cudatoolkit=10.1
+    $ conda install tensorflow-gpu==2.1.0 cudatoolkit=10.1 tensorboard==2.1.0 tensorflow-estimator==2.1.0
     $ pip install tensorflow==2.1.0
     $ pip install jupyter
     $ pip install keras==2.3.1
-    $ pip install numpy scipy Pillow cython matplotlib scikit-image opencv-python h5py imgaug IPython[all]
-
+    $ pip install numpy scipy Pillow cython matplotlib scikit-image opencv-python h5py imgaug IPython[all] tqdm
+    $ conda install ipykernel
+    $ python -m ipykernel install --user --name Unet --display-name "Unet"
+    
 ## 2. Descargar el dataset Electron Microscopy Dataset
 
     Descargar y descomprimir la carpeta, copiar las carpetas stage1_train y stage1_test para el entrenamiento y pruebas
