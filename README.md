@@ -9,7 +9,7 @@ Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica 
 
     $ conda create -n Unet anaconda python=3.7
     $ conda activate Unet
-    $ conda install tensorflow-gpu==2.1.0 cudatoolkit=10.1
+    $ conda install tensorflow-gpu==2.1.0 cudatoolkit=10.1 tensorboard==2.1.0 tensorflow-estimator==2.1.0
     $ pip install tensorflow==2.1.0
     $ pip install jupyter
     $ pip install keras==2.3.1
