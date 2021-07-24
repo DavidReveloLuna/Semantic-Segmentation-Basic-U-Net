@@ -21,7 +21,7 @@ Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica 
 
     Descargar y descomprimir la carpeta, copiar las carpetas stage1_train y stage1_test para el entrenamiento y pruebas
 
-[Download Dataset](https://www.epfl.ch/labs/cvlab/data/data-em/)
+[Download Dataset](https://www.kaggle.com/c/data-science-bowl-2018/data)
 
 ## 3. Entrenamiento del Modelo
 
