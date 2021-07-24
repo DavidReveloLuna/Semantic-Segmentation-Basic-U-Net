@@ -1,5 +1,5 @@
 # Segmentación Semántica Modelo Básico U-Net
-Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica usando Keras y el dataset Electron Microscopy Datset
+Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica usando Keras y el dataset Data Science Bowl 2018 para la detección de nucleos celulares
 
 [Paper original](https://arxiv.org/pdf/1505.04597.pdf)
 
@@ -17,7 +17,7 @@ Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica 
     $ conda install ipykernel
     $ python -m ipykernel install --user --name Unet --display-name "Unet"
     
-## 2. Descargar el dataset Electron Microscopy Dataset
+## 2. Descargar el dataset Data Science Bowl
 
     Descargar y descomprimir la carpeta, copiar las carpetas stage1_train y stage1_test para el entrenamiento y pruebas
 
