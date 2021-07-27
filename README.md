@@ -1,6 +1,8 @@
 # Segmentación Semántica Modelo Básico U-Net
 Vamos a entrenar un modelo U-Net básico para realizar segmentación semántica usando Keras y el dataset Data Science Bowl 2018 para la detección de nucleos celulares
 
+[Tutorial de Youtube](https://www.youtube.com/watch?v=3v7sYqigeSc&list=PLsjK_a5MFguLIBZQqxDvgUTp2SegKmMFH&index=18)
+
 [Paper original](https://arxiv.org/pdf/1505.04597.pdf)
 
 ![Modelo U-Net](https://github.com/DavidReveloLuna/Semantic-Segmentation-Basic-U-Net/blob/master/assets/ArquitecturaUnet.png)
